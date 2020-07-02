@@ -8,4 +8,5 @@ This is a game we created in group of 4 using the RACKET Language
 - Use "make clean" to clean your repository from junk files
 
 Here is a gif of the game running :
-[logo]:  https://github.com/mamghar001/Actor_racket_game/blob/master/remonte_remps.gif
+
+![grab-landing-page](https://github.com/mamghar001/Actor_racket_game/blob/master/remonte_remps.gif)
