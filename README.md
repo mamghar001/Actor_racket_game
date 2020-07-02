@@ -10,3 +10,7 @@ This is a game we created in group of 4 using the RACKET Language
 Here is a gif of the game running :
 
 ![grab-landing-page](https://github.com/mamghar001/Actor_racket_game/blob/master/remonte_remps.gif)
+
+The game uses **ZQSD controls** plus these commands :
+- **'p'** for going backwards in time after being dead
+- **'q'** for quitting the game and cleaning terminal
