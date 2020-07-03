@@ -3,9 +3,9 @@ This is a game we created in group of 4 using the RACKET Language
 
 # To install :
 - Install the Racket language (look on the internet on how to if not installe already)
-- Use "make install" on terminal
-- Use "make" to launch the game
-- Use "make clean" to clean your repository from junk files
+- Use "make install" on terminal to install necessary libraries.
+- Use "make" to launch the game (compile and run the game).
+- Use "make clean" to clean your repository from junk files.
 
 Here is a gif of the game running :
 
